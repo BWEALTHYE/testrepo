@@ -403,6 +403,7 @@ read_pptx() %>%
 ```
 
 #最后自信做IV,然后DV还是DV，画regression model
+## sperate files
 #k)Regression in terms of Moderation Relationship
 #do moderator one by one 
 #confidence asscoiated with DVs (speculations--more influential for people who are more confident)
